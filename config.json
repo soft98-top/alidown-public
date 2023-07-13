@@ -1,6 +1,13 @@
 {
-    "ver": "1.1",
+    "ver": "2.0",
     "passwd": "alidown",
-    "targets": [],
-    "cur_target": "https://alidown.mllmmllm.ml"
+    "targets": [
+        {
+            "url":"https://alidown.mllmmllm.ml",
+            "pwd":"alidown",
+            "code":""
+        }
+    ],
+    "cur_target": "https://alidown.mllmmllm.ml",
+    "code":""
 }
