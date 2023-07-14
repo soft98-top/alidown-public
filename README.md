@@ -63,7 +63,7 @@ alidown2 -t https://alidown.mllmmllm.ml -p alidown --code <your-code>
 
 获取refres_token的方法：
 
-- 打开https://www.aliyundrive.com/drive，进行登录
+- 打开[https://www.aliyundrive.com/drive](https://www.aliyundrive.com/drive)，进行登录
 - 按F12或者方法打开开发者工具
 - 在开发者工具的Console/控制台面板输入`JSON.parse(localStorage.token).refresh_token`
 - 将输出的字符串复制发给我，验证无误后会生成code发给你
