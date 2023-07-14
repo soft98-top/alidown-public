@@ -15,7 +15,7 @@ alidown2 -t https://alidown.mllmmllm.ml -p alidown --code <your-code>
 
 ## 0x01 Usage
 
-**-u/--url \<url\> ** 需要下载的分享链接
+**-u/--url \<url\>** 需要下载的分享链接
 
 **-s/--sid \<share_id\>** 需要下载的share_id
 
