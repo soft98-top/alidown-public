@@ -10,7 +10,7 @@ QQ群：775916840
 然后可以使用命令远端加载，-p是指定密码，后续可能会变更，--code是设置内测码。
 
 ```bash
-alidown2 -t https://alidown.mllmmllm.ml -p alidown --code <your-code>
+alidown2 -t https://alidown.soft98.top -p alidown --code <your-code>
 ```
 
 ## 0x01 Usage
