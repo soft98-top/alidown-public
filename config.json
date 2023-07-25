@@ -3,11 +3,11 @@
     "passwd": "alidown",
     "targets": [
         {
-            "url":"https://alidown.mllmmllm.ml",
+            "url":"http://62.234.51.187:11111",
             "pwd":"alidown",
             "code":""
         }
     ],
-    "cur_target": "https://alidown.mllmmllm.ml",
+    "cur_target": "http://62.234.51.187:11111",
     "code":""
 }
