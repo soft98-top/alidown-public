@@ -37,7 +37,7 @@ alidown2 -t https://alidown.soft98.top -p alidown --code <your-code>
 
 **--code \<your_code\>** 获取远程配置信息时，配置内测码，需要结合-t参数使用
 
-**-ti/---tindex \<index\>** 根据索引切换已配置的服务器地址列表
+**-ti/--tindex \<index\>** 根据索引切换已配置的服务器地址列表
 
 **-n \<thread_count\>** 分段并发下载数,，默认为20
 
